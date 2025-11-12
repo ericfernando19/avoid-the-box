@@ -35,15 +35,5 @@ Semakin lama kamu bertahan, semakin cepat kotak akan muncul!
 
 ---
 
-## 🚀 Cara Menjalankan Game
-
-### Opsi 1 — Main Langsung (Offline)
-1. Download file `avoid-the-box.html`
-2. Klik dua kali untuk membuka di browser (Chrome, Edge, Firefox, dll)
-
-### Opsi 2 — Upload ke GitHub Pages (Online)
-1. Buat repository baru di GitHub  
-2. Upload file HTML ke repository tersebut  
-3. Masuk ke **Settings → Pages**  
-4. Di bagian **Source**, pilih `main` → `/ (root)`  
-5. Tunggu beberapa detik, lalu akses link:  
+## 🚀 Cara Menjalankan Game dilink dibawah ini!!!
+https://ericfernando19.github.io/avoid-the-box/
